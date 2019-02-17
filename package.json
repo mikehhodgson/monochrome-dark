@@ -1,21 +1,33 @@
 {
-    "name": "monochrome-dark",
-    "displayName": "Monochrome Dark",
-    "description": "Monochrome dark minimalist theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.31.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monochrome Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Monochrome Dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "monochrome-dark",
+  "displayName": "Monochrome Dark",
+  "description": "Monochrome dark minimalist theme",
+  "version": "0.0.1",
+  "author": {
+    "name": "mikehhodgson"
+  },
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "homepage": "https://github.com/mikehhodgson/monochrome-dark",
+  "bugs": {
+    "url": "https://github.com/mikehhodgson/monochrome-dark/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikehhodgson/monochrome-dark.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monochrome Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monochrome Dark-color-theme.json"
+      }
+    ]
+  }
 }
