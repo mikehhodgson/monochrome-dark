@@ -12,6 +12,10 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#1A1A1A",
+    "theme": "dark"
+  },
   "license": "SEE LICENSE IN LICENSE",
   "homepage": "https://github.com/mikehhodgson/monochrome-dark",
   "bugs": {
