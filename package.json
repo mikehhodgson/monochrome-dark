@@ -1,0 +1,21 @@
+{
+    "name": "monochrome-dark",
+    "displayName": "Monochrome Dark",
+    "description": "Monochrome dark minimalist theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monochrome Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monochrome Dark-color-theme.json"
+            }
+        ]
+    }
+}
