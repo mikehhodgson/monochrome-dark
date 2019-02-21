@@ -7,6 +7,9 @@
   "author": {
     "name": "mikehhodgson"
   },
+  "scripts": {
+    "publish": "vsce publish patch"
+  },
   "engines": {
     "vscode": "^1.31.0"
   },
