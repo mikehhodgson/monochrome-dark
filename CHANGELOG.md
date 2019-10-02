@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.6] - 2019-10-02
+
+- Improve list active selection contrast, reduce inactive selection brightness
+
 ## [0.0.5] - 2019-03-21
 
 - No changes - republished due to failed marketplace publish command
