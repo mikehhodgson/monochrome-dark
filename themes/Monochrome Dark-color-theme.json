@@ -4,7 +4,6 @@
   "colors": {
     "activityBar.background": "#1a1a1a",
     "activityBar.border": "#222426",
-    "activityBar.dropBackground": "#222426",
     "activityBar.foreground": "#ffffff",
     "activityBarBadge.background": "#ffffff",
     "activityBarBadge.foreground": "#000000",
@@ -40,7 +39,6 @@
     "editorBracketMatch.border": "#222426",
     "editorCursor.background": "#222426",
     "editorCursor.foreground": "#ffffff",
-    "editorGroup.background": "#000000",
     "editorGroup.border": "#222426",
     "editorGroup.dropBackground": "#222426",
     "editorGroupHeader.noTabsBackground": "#1a1a1a",
@@ -92,7 +90,6 @@
     "notifications.foreground": "#ffffff",
     "panel.background": "#1a1a1a",
     "panel.border": "#222426",
-    "panel.dropBackground": "#222426",
     "panelTitle.activeBorder": "#ffffff",
     "peekView.border": "#222426",
     "peekViewEditor.background": "#000000",
@@ -142,8 +139,6 @@
     "titleBar.inactiveBackground": "#1a1a1a",
     "titleBar.inactiveForeground": "#ffffff",
     "walkThrough.embeddedEditorBackground": "#000000",
-    "welcomePage.buttonBackground": "#000000",
-    "welcomePage.buttonHoverBackground": "#606060",
     "widget.shadow": "#000000"
     //"activityBar.inactiveForeground": "#ffffff99",
     //"breadcrumb.activeSelectionForeground": "#ffffff",
@@ -889,6 +884,30 @@
       "settings": {
         "fontStyle": "",
         "foreground": "#888888"
+      }
+    },
+    {
+      "name": "Diff Header",
+      "scope": ["meta.diff.header.git", "meta.diff.index.git"],
+      "settings": {
+        "foreground": "#969696",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Diff Deleted",
+      "scope": ["meta.diff.header.from-file", "markup.deleted"],
+      "settings": {
+        "foreground": "#bb0000",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Diff Inserted",
+      "scope": ["meta.diff.header.to-file", "markup.inserted"],
+      "settings": {
+        "foreground": "#9bb955",
+        "fontStyle": "bold"
       }
     }
   ]
