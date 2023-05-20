@@ -1,8 +1,8 @@
 # Monochrome Dark
 
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![Version](https://vsmarketplacebadge.apphb.com/version/mikehhodgson.monochrome-dark.svg)](https://marketplace.visualstudio.com/items?itemName=mikehhodgson.monochrome-dark)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/mikehhodgson.monochrome-dark.svg)](https://marketplace.visualstudio.com/items?itemName=mikehhodgson.monochrome-dark)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.png)](https://code.visualstudio.com/)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/mikehhodgson.monochrome-dark)](https://marketplace.visualstudio.com/items?itemName=mikehhodgson.monochrome-dark)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/mikehhodgson.monochrome-dark)](https://marketplace.visualstudio.com/items?itemName=mikehhodgson.monochrome-dark)
 
 A simple dark monochrome color theme, inspired by in-the-box's [Simple Dark Mode](https://github.com/in-the-box/vscode-simple-dark-mode) theme for VS Code, and anler's [Minimal Theme](https://github.com/anler/minimal-theme) for Emacs.
 
